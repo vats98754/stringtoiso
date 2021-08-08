@@ -1,5 +1,4 @@
 # stringtoiso
-# stringtoiso
 ## _The first String to ISO-code Converter_
 
 This is a package, uploaded on PyPI by anvayvats, to convert an input string representing a language (like 'Spanish') into its ISO-639-X code equivalent. For now, the system only converts to ISO-639-1, ISO-639-2B, ISO-639-2T, ISO-639-3, but the goal is to expand this package to support ISO-X-X. This package:
