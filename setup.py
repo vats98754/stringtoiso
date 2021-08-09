@@ -60,8 +60,8 @@ SOFTWARE.
   ''',
   author = 'Anvay Vats',
   author_email = 'vats98754@gapps.uwcsea.edu.sg',
-  url = 'https://anvayvats.ml',
-  download_url = 'https://github.com/vats98754/stringtoiso/archive/refs/tags/v_01.tar.gz',
+  url = 'https://github.com/vats98754/stringtoiso/',
+  download_url = 'https://github.com/vats98754/stringtoiso/archive/refs/tags/v_02.tar.gz',
   keywords = ['ISO-639-1', 'ISO-639-2B', 'ISO-639-2T', 'ISO-639-3', 'ISO-639', 'ISO', 'converter', 'string', 'gTTS'],
   install_requires=[],
   classifiers=[
