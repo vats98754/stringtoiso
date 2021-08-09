@@ -5,8 +5,7 @@ setup(
   version = '0.2',
   license='MIT',
   description = 'A library that converts string inputs representing languages like "Spanish" into their ISO-639 code equivalents.',
-  long_description_content_type='text/markdown',
-  long_description = '''# stringtoiso
+  long_description = """# stringtoiso
 ## _The first String to ISO-code Converter_
 
 This is a package, uploaded on PyPI by anvayvats, to convert an input string representing a language (like 'Spanish') into its ISO-639-X code equivalent. For now, the system only converts to ISO-639-1, ISO-639-2B, ISO-639-2T, ISO-639-3, but the goal is to expand this package to support ISO-X-X. This package:
@@ -58,7 +57,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-  ''',
+  """,
+  long_description_content_type='text/markdown',
   author = 'Anvay Vats',
   author_email = 'vats98754@gapps.uwcsea.edu.sg',
   url = 'https://github.com/vats98754/stringtoiso/',
