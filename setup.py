@@ -5,6 +5,7 @@ setup(
   version = '0.2',
   license='MIT',
   description = 'A library that converts string inputs representing languages like "Spanish" into their ISO-639 code equivalents.',
+  long_description_content_type='text/markdown',
   long_description = '''# stringtoiso
 ## _The first String to ISO-code Converter_
 
